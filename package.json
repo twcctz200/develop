@@ -12,7 +12,7 @@
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^v1.6.22",
     "@sentry-internal/global-search": "0.0.43",
-    "@sentry/gatsby": "^7.30.0",
+    "@sentry/gatsby": "^7.120.4",
     "@sentry/node": "^7.30.0",
     "@sentry/profiling-node": "^0.0.12",
     "@sentry/tracing": "^7.30.0",
